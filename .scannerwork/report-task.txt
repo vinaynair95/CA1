@@ -1,0 +1,6 @@
+projectKey=CA-PrestaShop
+serverUrl=http://127.0.0.1:9000
+serverVersion=8.6.1.40680
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=CA-PrestaShop
+ceTaskId=AYbLXU3sxyUmDt4ZLMiU
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=AYbLXU3sxyUmDt4ZLMiU
